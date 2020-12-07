@@ -36,7 +36,6 @@ Also, I like to spend my free time by reading books (mostly science fiction), le
 <p align="center">
 <a href="https://github.com/akmaldju">
   <img height="180em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akmal-binary&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akmal-binary&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
