@@ -2,15 +2,15 @@
 
 ## 👋 &nbsp;Hey there! I'm Akmal
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Welcome to my Github profile!
 
-I'm a FullStack Web Developer.
+I'm a FullStack Web Developer hailing from the beautiful city of Tashkent, Uzbekistan.
 
-I'm from Tashkent, Uzbekistan, and I speak english and russian.
+When I'm not busy coding away, you can find me traveling to new and exciting places, trying out delicious cuisines, and participating in various sports and outdoor activities such as tennis, ping pong, hiking, camping, cycling, and pool.
 
-In addition to programming and web development, I really enjoy travelling, trying out different cuisines and checking out new places.
-Apart from that, I'm into different sports and outdoor activities, such as tennis, ping pong, hiking, camping, cycling, pool and many more. I like to try new things every single time.
-Also, I like to spend my free time by reading books (mostly science fiction), learning to play musical instruments (particularly guitar), and having interesting and deep conversations about anything.
+But my interests don't stop there. In my free time, I enjoy delving into science fiction novels, learning to play musical instruments (particularly the guitar), and engaging in deep and thought-provoking conversations on a variety of topics.
+
+So whether I'm coding up a storm or exploring the world, I'm always on the lookout for new and exciting experiences. Thanks for stopping by!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,14 +35,14 @@ Also, I like to spend my free time by reading books (mostly science fiction), le
 
 <p align="center">
 <a href="https://github.com/akmaldju">
-  <img height="180em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akmal-binary&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akmal-deriv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://akmal.now.sh"><img src="https://img.shields.io/badge/-Akmal%20Djumakhodjaev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://akmaldju.com"><img src="https://img.shields.io/badge/-Akmal%20Djumakhodjaev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://facebook.com/akmal.djumakhodjaev"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://linkedin.com/in/akmal-djumakhodjaev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:akmal070597@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
